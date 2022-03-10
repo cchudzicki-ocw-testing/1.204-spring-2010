@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lecture3Examples.sql
 uid: 3ada105f-182d-8d11-d0f6-ebb967c08442
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

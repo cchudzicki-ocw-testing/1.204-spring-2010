@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec05.zip
 uid: 2b75a11e-4334-5696-d985-3e3668dfbc8f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

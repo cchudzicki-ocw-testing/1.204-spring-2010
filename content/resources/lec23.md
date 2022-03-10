@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec23.zip
 uid: ea897418-2b06-4545-bad7-e741337aeb3a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT1_204S10_assn5.pdf
 uid: b5a50a91-81b9-7500-e8d6-d05bef481e24
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec21a.zip
 uid: 8d145513-ab6c-aadc-8d10-8689f04d5127
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

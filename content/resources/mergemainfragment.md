@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: MergeMainFragment.java
 uid: 15224b89-b91d-e455-96f8-cb9a0c1dbe10
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

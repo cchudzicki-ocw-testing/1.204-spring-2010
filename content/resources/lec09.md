@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec09.zip
 uid: 98317700-e5b5-a67a-6223-e2db7c1a8778
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

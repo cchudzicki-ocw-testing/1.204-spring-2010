@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Lecture3CreateDB.sql
 uid: 7d7c3ccb-9500-9363-1448-1eced135637f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

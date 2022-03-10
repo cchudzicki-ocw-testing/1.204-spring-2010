@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec10.zip
 uid: 3df0fe8c-2c55-22f5-3fea-79f74f22e2d4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

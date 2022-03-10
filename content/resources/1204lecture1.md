@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: 1204Lecture1.vpp
 uid: 3ec92bf9-2d13-ec26-fb22-e78eaa9c79d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

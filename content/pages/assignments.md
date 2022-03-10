@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 86bee70a-9661-c040-b705-41a347d30982
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -39,7 +43,7 @@ Intercity passenger rail schedules
 
 ({{% resource_link 40ddf8b1-8ad0-2850-a268-615a36d45e05 "PDF" %}})
 
-([TXT](/courses/civil-and-environmental-engineering/1-204-computer-algorithms-in-systems-engineering-spring-2010/assignments/acela.txt))
+({{% resource_link c1bc71c8-53a9-d005-3857-6bc0939feff7 "TXT" %}})
 
 
 {{< tdclose >}}

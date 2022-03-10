@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: DuctTestFragment.zip
 uid: 7498c922-5d5a-550f-9ab0-d6f00914e869
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

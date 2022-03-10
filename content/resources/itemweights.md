@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: itemweights.zip
 uid: ea201e28-f995-d90d-d40f-e00b16fd3513
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

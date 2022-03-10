@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: d314785f-0ca4-8ebf-4768-0dc57945c4d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the first quiz from several semesters of the course. The second quiz was generally replaced by an extra problem set.

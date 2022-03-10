@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: Arlington1204RawData.zip
 uid: c879f74f-1808-a5cb-167c-e139bab3d795
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

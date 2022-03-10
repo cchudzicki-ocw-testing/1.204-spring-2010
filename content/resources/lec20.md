@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec20.zip
 uid: 5b48d8b1-5a2f-9b5c-cb55-534ca8c3b18e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

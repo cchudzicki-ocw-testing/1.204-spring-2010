@@ -5,12 +5,16 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: a675da2d-2051-75bc-6b2a-1f91a9ec3fd4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Java{{< sup "TM" >}} and Eclipse
 --------------------------------
 
-See the installation instructions in [_6.092 Introduction to Programming in Java_](/courses/6-092-introduction-to-programming-in-java-january-iap-2010/content/pages/syllabus).
+See the installation instructions in [_6.092 Introduction to Programming in Java_](/courses/6-092-introduction-to-programming-in-java-january-iap-2010/pages/syllabus).
 
 Visual Paradigm
 ---------------

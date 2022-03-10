@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec22_BFGS.zip
 uid: 2acd4c26-cec3-15f5-9825-ca7600b67d5c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

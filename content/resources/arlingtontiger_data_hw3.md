@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: ArlingtonTiger_Data_HW3.zip
 uid: b9ac25ca-d827-1f55-400b-6b6c4241f49a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
