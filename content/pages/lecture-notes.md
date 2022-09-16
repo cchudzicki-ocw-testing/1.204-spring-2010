@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics by session, a complete
+  set of lecture notes, and supporting files.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -59,7 +61,7 @@ Database: Entity-relationship modeling
 Database: Normalization, SQL basics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3ad5b8f0-883d-bcb1-d338-7417563a42ba "PDF" %}})
+({{% resource_link 3ad5b8f0-883d-bcb1-d338-7417563a42ba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -74,7 +76,7 @@ Database: Normalization, SQL basics
 Database: SQL joins, views, subqueries
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ca8f491f-5f7f-5733-5b87-a52700e54849 "PDF" %}})
+({{% resource_link ca8f491f-5f7f-5733-5b87-a52700e54849 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

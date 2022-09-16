@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the first quiz from several semesters of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
